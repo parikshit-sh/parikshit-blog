@@ -2,7 +2,6 @@
 title: 'Why I Use Tailwind CSS for My Projects'
 description: 'A look into why Tailwind CSS is my go-to choice for styling web applications over traditional CSS.'
 pubDate: 'Sep 23 2024'
-heroImage: '/public/tailwindcss.jpeg'
 layout: ../../layouts/BlogPost.astro
 ---
 

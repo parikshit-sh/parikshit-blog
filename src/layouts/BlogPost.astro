@@ -37,7 +37,7 @@ const {
         @apply list-disc list-inside pl-4 mb-4
       }
       h1, h2, h3, h4, h5 {
-        @apply font-bold font-mplus
+        @apply font-bold font-fmono
       }
       h1 {
         @apply text-4xl
@@ -64,21 +64,8 @@ const {
     </style>
 
     <main class="pt-[56px]">
-      <Content className="pt-6 markdown-body font-mplus text-lg">
-        <div class="mb-8" >
-          {
-            heroImage && (
-              <img
-                class="border border-slate-300 dark:border-zinc-700 rounded-xl mx-auto"
-                width={720}
-                height={360}
-                src={heroImage}
-                alt=""
-              />
-            )
-          }
-        </div>
-        <h1 class="text-3xl my-1 font-mplus">{title}</h1>
+      <Content className="pt-6 markdown-body font-fmono text-lg">
+        <h1 class="text-3xl my-1 font-fmono">{title}</h1>
         <div>{description}</div>
         <hr class="border-top border-zinc-400 my-4" />
         <slot />

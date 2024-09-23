@@ -3,7 +3,7 @@ title: 'Why I Use Tailwind CSS for My Projects'
 description: 'A look into why Tailwind CSS is my go-to choice for styling web applications over traditional CSS.'
 pubDate: 'Sep 23 2024'
 heroImage: '/public/tailwindcss.jpeg'
-layout: ../../layouts/blogPost.astro
+layout: ../../layouts/BlogPost.astro
 ---
 
 When it comes to styling web applications, there are countless options available, from plain CSS to popular frameworks like Bootstrap and Material UI. However, my go-to choice is Tailwind CSS, and here’s why.

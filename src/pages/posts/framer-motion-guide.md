@@ -3,7 +3,7 @@ title: 'A Beginner’s Guide to Framer Motion'
 description: 'Learn the basics of Framer Motion and how to create stunning animations with simple code examples.'
 pubDate: 'Sep 23 2024'
 heroImage: 'https://framerusercontent.com/images/E6jTNho0jrXgrW057WaiHrIHA0.webp'
-layout: ../../layouts/blogPost.astro
+layout: ../../layouts/BlogPost.astro
 
 ---
 

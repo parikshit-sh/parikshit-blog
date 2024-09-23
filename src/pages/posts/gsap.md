@@ -3,7 +3,7 @@ title: 'GSAP vs Framer Motion: Why I Choose GSAP for Animations'
 description: 'A comparison of GSAP and Framer Motion, and why I prefer GSAP for creating animations in my projects.'
 pubDate: 'Sep 23 2024'
 heroImage: '/public/STAYHAR.jpeg'
-layout: ../../layouts/blogPost.astro
+layout: ../../layouts/BlogPost.astro
 ---
 
 Creating animations in web applications can elevate the user experience, making your site feel dynamic and engaging. Two of the most popular animation libraries today are GSAP (GreenSock Animation Platform) and Framer Motion. Here’s a comparison of both and why I often choose GSAP for my projects.

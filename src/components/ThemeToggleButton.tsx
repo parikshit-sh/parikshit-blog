@@ -48,7 +48,7 @@ export default function ThemeToggle() {
             {themes.map(t => {
                 const checked = t === theme
                 return(
-                    <button key={t} className={`${checked ? 'bg-white text-black ' : ''} cursor-pointer p-2 rounded-3xl `} onClick={toggleTheme} 
+                    <button key={t} className={`${checked ? 'bg-zinc-100 text-black ' : ''} cursor-pointer p-2 rounded-full `} onClick={toggleTheme} 
                     aria-label='ThemeToggle'>{t === 'light' ? <IoSunny /> : <TbMoonFilled />}</button>
                 )
             })}

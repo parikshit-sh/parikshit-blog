@@ -1,5 +1,5 @@
 ---
-title: 'GSAP vs. Framer Motion: Why I Choose GSAP for Animations'
+title: 'GSAP vs Framer Motion: Why I Choose GSAP for Animations'
 description: 'A comparison of GSAP and Framer Motion, and why I prefer GSAP for creating animations in my projects.'
 pubDate: 'Sep 23 2024'
 heroImage: '/public/STAYHAR.jpeg'

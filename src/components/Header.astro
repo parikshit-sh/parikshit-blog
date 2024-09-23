@@ -12,7 +12,7 @@ allPosts.map(post => {
 })
 ---
 
-<header class="fixed w-full z-20 backdrop-blur-md">
+<header class="fixed w-full z-20 backdrop-blur-md p-2">
 	<div class="mx-auto  max-w-3xl">
 	<nav class="flex justify-center gap-8 text-base items-center">
 		<h2 class="font-mplus font-semibold 
@@ -41,7 +41,8 @@ allPosts.map(post => {
 			</a>
 		
 		</div>
-		<ThemeToggle client:load/>
+		<div class="flex items-center"><ThemeToggle client:load/></div>
+		
 	</nav>
 </div>
 </header>

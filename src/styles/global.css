@@ -12,3 +12,24 @@
 	text-rendering: optimizeLegibility;
 	overflow-wrap: break-word;
  }
+
+ /* Global CSS file - Add this to your styles.css or index.css */
+pre {
+  background-color: #2d2d2d; /* Set your desired background color */
+  border-radius: 8px; /* Adjust border radius */
+  padding: 16px;
+  overflow-x: auto; /* Allow horizontal scrolling for wide code */
+}
+
+code {
+  color: #f8f8f2; /* Text color inside code blocks */
+  font-family:'Zeitung Mono Pro'; /* Font for code */
+  font-size: 13px;
+}
+
+/* Specific style for inline code */
+code.inline {
+  background-color: #44475a;
+  padding: 2px 4px;
+  border-radius: 4px;
+}

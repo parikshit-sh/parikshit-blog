@@ -6,8 +6,7 @@ late hours of the night. <br>
 simple markdown posts, fast response,  <br>
 peak performance. <br>
 
-Looking forward to typing out some blogs of my own, <br>
-not just blatanlty using ChatGPT. <br>
+Looking forward to share what i learn & discover there. <br>
 
 Ciao.
 

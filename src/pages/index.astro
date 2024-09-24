@@ -46,7 +46,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
                     <div class="blog__title mt-3 text-2xl   font-bold border-b-[1px] border-zinc-700 p-2">
                       
                       {post.frontmatter.title}
-                      <div class="arrow inline-flex hover:rotate-45 items-center absolute px-1">  <MdArrowOutward /></div>
+                      <div class="arrow inline-flex hover:rotate-45 items-center absolute px-1 pr-2">  <MdArrowOutward /></div>
                     
                     </div>
                     {post.frontmatter.description && (

@@ -1,11 +1,11 @@
 
 
-minimal blog App made during 
-late hours of the night.
-simple markdown posts, fast response,
-peak performance.
-Looking forward to typing out some blogs of my own,
-not just blatanlty using ChatGPT.
+minimal blog App made during <br>
+late hours of the night. <br>
+simple markdown posts, fast response,  <br>
+peak performance. <br>
+Looking forward to typing out some blogs of my own, <br>
+not just blatanlty using ChatGPT. <br>
 Ciao.
 
 ![Screenshot 2024-09-24 200913](https://github.com/user-attachments/assets/277c0115-5f78-4869-bcd0-bce8d23b6171)

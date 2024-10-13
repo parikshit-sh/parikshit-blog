@@ -1,29 +1,32 @@
-# Astro Starter Kit: Blog
 
-```sh
-npm create astro@latest -- --template blog
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+minimal blog App made during <br>
+late hours of the night. <br>
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+simple markdown posts, fast response,  <br>
+peak performance. <br>
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+Looking forward to share what i learn & discover there. <br>
+
+Ciao.
+
+![Screenshot 2024-09-24 200708](https://github.com/user-attachments/assets/7a5ae79f-ef7e-4720-adb2-1f1ef062a0aa)
+![Screenshot 2024-09-24 200814](https://github.com/user-attachments/assets/5a383269-b179-46de-bb1e-be5f32cc1d07)
+![Screenshot 2024-09-24 200913](https://github.com/user-attachments/assets/277c0115-5f78-4869-bcd0-bce8d23b6171)
+
+
+
 
 Features:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
+- ✅ Minimal styling
+- ✅ peak Lighthouse performance
 - ✅ SEO-friendly with canonical URLs and OpenGraph data
 - ✅ Sitemap support
 - ✅ RSS Feed support
 - ✅ Markdown & MDX support
 
 ## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
 
 ```text
 ├── public/

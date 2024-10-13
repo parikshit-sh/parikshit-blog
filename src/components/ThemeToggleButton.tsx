@@ -1,7 +1,6 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import {useState} from 'react';
-import { FaMoon } from 'react-icons/fa';
-import { IoMoonOutline, IoSunny } from 'react-icons/io5';
+import { IoSunny } from 'react-icons/io5';
 import { TbMoonFilled } from 'react-icons/tb';
 
 const themes = ['light', 'dark'];

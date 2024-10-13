@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'Parikshit Sharma - Blog';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
-export const PORTFOLIO = 'https://parikshit.vercel.app/';
+export const PORTFOLIO = 'https://parikshit.dev/';
